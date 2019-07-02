@@ -6,4 +6,7 @@
 
 另外做了些测试：图像目标检测、视频实时目标检测测试。
 
+个人博客：https://blog.csdn.net/aaa_aaa1sdf/article/details/94484328
+Github:https://github.com/Teslaxhub/YOLO_V3_Tensorflow_Keras_from_scratch
+
 <img src="readme_pic/YOLO_V3_Structure.png" style="width:1000px;height:100;">
