@@ -8,8 +8,5 @@
 + 转图请留言并注明出处，谢谢；
 + 如有错误，欢迎指正。
 
-个人博客：https://blog.csdn.net/aaa_aaa1sdf/article/details/94484328
-Github:https://github.com/Teslaxhub/YOLO_V3_Tensorflow_Keras_from_scratch
-
-<img src="readme_pic/YOLO_V3_Structure.png" style="width:900px;height:100;">
+<img src="./readme_pic/YOLO_V3_Structure.png" style="width:900px;height:100;">
 <caption><center> Figure 1: YOLO V3 Structure Detail </center></caption>
