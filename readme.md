@@ -7,6 +7,7 @@
 + 详细代码步骤见：https://github.com/Teslaxhub/YOLO_V3_Tensorflow_Keras_from_scratch   含测试样例；
 + 转图请留言并注明出处，谢谢；
 + 如有错误，欢迎指正。
++ 如有错误，欢迎指正2222。
 
 <img src="./readme_pic/YOLO_V3_Structure.png" style="width:900px;height:100;">
 <caption><center> Figure 1: YOLO V3 Structure Detail </center></caption>
